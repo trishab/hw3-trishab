@@ -1,0 +1,9 @@
+11/10/13 9:11:39 PM - 1: org.apache.uima.adapter.jms.client.BaseUIMAAsynchronousEngine_impl.<init>(128): INFO: UIMA Version 2.4.0 UIMA-AS Version 2.4.0
+11/10/13 9:11:40 PM - 1: org.apache.uima.adapter.jms.client.BaseUIMAAsynchronousEngine_impl.setupConnection: INFO: UIMA AS Client Created Shared Connection To Broker: tcp://mu.lti.cs.cmu.edu:61616
+11/10/13 9:11:40 PM - 1: org.apache.uima.adapter.jms.client.BaseUIMAAsynchronousEngine_impl.initializeProducer: INFO: Initializing JMS Message Producer. Broker: tcp://mu.lti.cs.cmu.edu:61616 Queue Name: ScnlpQueue
+11/10/13 9:11:40 PM - 1: org.apache.uima.adapter.jms.client.BaseUIMAAsynchronousEngine_impl.initializeConsumer: INFO: Initializing JMS Message Consumer. Broker: tcp://mu.lti.cs.cmu.edu:61616 Queue Name: ID:TrishaPC-59347-1384135899820-0:0:1
+11/10/13 9:11:41 PM - 1: org.apache.uima.adapter.jms.client.BaseUIMAAsynchronousEngine_impl.initialize: INFO: Asynchronous Client Has Been Initialized. Serialization Strategy: [xmi] Ready To Process.
+11/10/13 9:11:43 PM - 11: org.apache.uima.adapter.jms.client.BaseUIMAAsynchronousEngineCommon_impl.stop: INFO: Stopping Asynchronous Client.
+11/10/13 9:11:43 PM - 11: org.apache.uima.adapter.jms.client.BaseUIMAAsynchronousEngineCommon_impl.stop: INFO: Asynchronous Client Has Stopped.
+11/10/13 9:11:43 PM - 11: org.apache.uima.adapter.jms.client.BaseUIMAAsynchronousEngineCommon_impl$SharedConnection.destroy: INFO: UIMA AS Client Shared Connection Has Been Closed   
+11/10/13 9:11:43 PM - 11: org.apache.uima.adapter.jms.client.BaseUIMAAsynchronousEngine_impl.stop: INFO: UIMA AS Client Undeployed All Containers
