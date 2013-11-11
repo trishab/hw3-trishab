@@ -20,7 +20,7 @@ import edu.cmu.deiis.types.Token;
 public class AnswerScoreAnnotator extends JCasAnnotator_ImplBase {
 
   /**
-   * process function can annotate the score for a given answer. The score is calculated by token
+   * process function can annotate the score for a given answer. This score will be calculated by token
    * overlap or ngram overlap.
    */
   @Override
